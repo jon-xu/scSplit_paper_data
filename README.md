@@ -3,10 +3,11 @@
 ### Data included in the paper "Genotype-free demultiplexing of pooled single-cell RNA-seq"
 http://biorxiv.org/cgi/content/short/570614v1
 
-#### Data were generated using the newly published tool scSplit
+### newly published tool scSplit were used to generate all data
 https://github.com/jon-xu/sc_split
 
-#### Results in Table 1 were generated based on datasets for the paper Zheng et al, “Massively parallel digital transcriptional profiling of single cells” (previously deposited to biorxiv)
+
+### Results in Table 1 were generated based on datasets for the paper Zheng et al, “Massively parallel digital transcriptional profiling of single cells” (previously deposited to biorxiv)
 Donor A: https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_pbmc_donor_a
 
 Donor B: https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_pbmc_donor_b
