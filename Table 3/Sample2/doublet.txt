@@ -1,1 +1,1 @@
-Cluster 1 is doublet.
+Cluster 2 is doublet.
