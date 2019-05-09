@@ -4,7 +4,7 @@
 http://biorxiv.org/cgi/content/short/570614v1
 
 ### newly published tool scSplit were used to generate all data
-https://github.com/jon-xu/sc_split
+https://github.com/jon-xu/scSplit
 
 
 ##### Results in Table 2 were generated based on datasets for the paper Zheng et al, “Massively parallel digital transcriptional profiling of single cells” (previously deposited to biorxiv)
