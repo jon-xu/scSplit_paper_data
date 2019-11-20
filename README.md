@@ -1,6 +1,6 @@
 # scSplit_paper_data
 
-### Data included in the paper "Genotype-free demultiplexing of pooled single-cell RNA-seq"
+### Results discovered in the paper "Genotype-free demultiplexing of pooled single-cell RNA-seq"
 http://biorxiv.org/cgi/content/short/570614v7
 
 ### newly published tool scSplit were used to generate all data
