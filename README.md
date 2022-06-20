@@ -1,7 +1,7 @@
 # scSplit_paper_data
 
 ### Results discovered in the paper "Genotype-free demultiplexing of pooled single-cell RNA-seq"
-http://biorxiv.org/cgi/content/short/570614v7
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1852-7
 
 ### newly published tool scSplit were used to generate all data
 https://github.com/jon-xu/scSplit
